@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<licenta>
+    <tema>Sisteme Distribuite</tema>
+    <autor>Stratulat Stefan </autor>
+    <coordonator>Mike Zaharia</coordonator>
+    <continut>
+        <capitol>
+            <numar_capitol>1</numar_capitol>
+            <titlu_capitol>Introducere</titlu_capitol>
+            <numar_pagini>15</numar_pagini>
+            <descriere>Scurta introducere in domeniul Sistemelor distribuite</descriere>
+            <subcapitol>
+                <numar_subcapitol>1.1</numar_subcapitol>
+                <titlu_subcapitol>Istoric tema</titlu_subcapitol>
+                <descriere_subcapitol>Scurt istoric al evolutiei sistemelor distribuite</descriere_subcapitol>
+            </subcapitol>
+            <subcapitol>
+                <numar_subcapitol>1.2</numar_subcapitol>
+                <titlu_subcapitol>Abordari similare cu citari</titlu_subcapitol>
+                <desciere_subcapitol>Citari in ceea ce priveste studiul sistemelor distribuite</desciere_subcapitol>
+            </subcapitol>
+            <subcapitol>
+                <numar_subcapitol>1.3</numar_subcapitol>
+                <titlu_subcapitol>Avantaje</titlu_subcapitol>
+                <desciere_subcapitol>Avantajele folosirii sistemelor distribuite in tehnologii web</desciere_subcapitol>
+            </subcapitol>
+            <subcapitol>
+                <numar_subcapitol>1.4</numar_subcapitol>
+                <titlu_subcapitol>Limite</titlu_subcapitol>
+                <desciere_subcapitol>Limite impuse de evolutia tehnologica in tehnologiile web</desciere_subcapitol>
+            </subcapitol>
+        </capitol>
+        <capitol>
+            <numar_capitol>2</numar_capitol>
+            <titlu_capitol>Componentele şi caracteristicile metodei si a aplicaţiei propuse</titlu_capitol>
+            <numar_pagini>30</numar_pagini>
+            <descriere>Analiza abordarii alese </descriere>
+            <subcapitol>
+                <numar_subcapitol>2.1</numar_subcapitol>
+                <titlu_subcapitol>Descrierea problemei</titlu_subcapitol>
+                <descriere_subcapitol>Descrierea aprofundata a problemei</descriere_subcapitol>
+            </subcapitol>
+            <subcapitol>
+                <numar_subcapitol>2.2</numar_subcapitol>
+                <titlu_subcapitol>Moduri de solutionare</titlu_subcapitol>
+                <descriere_subcapitol>Analiza analitica a implementarii</descriere_subcapitol>
+            </subcapitol>
+            <subcapitol>
+                <numar_subcapitol>2.3</numar_subcapitol>
+                <titlu_subcapitol>Moduri de implementare</titlu_subcapitol>
+                <descriere_subcapitol>Analiza efectiva a implementarii</descriere_subcapitol>
+            </subcapitol>
+            <subcapitol>
+                <numar_subcapitol>2.4</numar_subcapitol>
+                <titlu_subcapitol>Clasificari</titlu_subcapitol>
+                <descriere_subcapitol>Clasificare in functie de domeniul de utilizare</descriere_subcapitol>
+            </subcapitol>
+        </capitol>
+        <capitol>
+            <numar_capitol>3</numar_capitol>
+            <titlu_capitol>Implementarea temei</titlu_capitol>
+            <numar_pagini>30</numar_pagini>
+            <descriere>Descrierea implementarii, a gestiunii, a testarii si a utilizarii aplicatiei in mod concret</descriere>
+            <subcapitol>
+                <numar_subcapitol>3.1</numar_subcapitol>
+                <titlu_subcapitol>Descrierea implementarii</titlu_subcapitol>
+                <descriere_subcapitol>Descrierea aprofundata a implementarii</descriere_subcapitol>
+            </subcapitol>
+            <subcapitol>
+                <numar_subcapitol>3.2</numar_subcapitol>
+                <titlu_subcapitol>Gestiune</titlu_subcapitol>
+                <descriere_subcapitol>Moduri de gestiune a problemei</descriere_subcapitol>
+            </subcapitol>
+            <subcapitol>
+                <numar_subcapitol>3.3</numar_subcapitol>
+                <titlu_subcapitol>Testare</titlu_subcapitol>
+                <descriere_subcapitol>Principii de testare</descriere_subcapitol>
+            </subcapitol>
+            <subcapitol>
+                <numar_subcapitol>3.4</numar_subcapitol>
+                <titlu_subcapitol>Utilizare in mod concret</titlu_subcapitol>
+                <descriere_subcapitol>Analiza aplicabilitatii solutiei</descriere_subcapitol>
+            </subcapitol>
+        </capitol>
+        <capitol>
+            <numar_capitol>4</numar_capitol>
+            <titlu_capitol>Concluzii</titlu_capitol>
+            <numar_pagini>5</numar_pagini>
+            <descriere>Concluzii generale</descriere>
+            <subcapitol>
+                <numar_subcapitol>4.1</numar_subcapitol>
+                <titlu_subcapitol>Implementarea</titlu_subcapitol>
+                <descriere_subcapitol>Concluzii privind implementarea</descriere_subcapitol>
+            </subcapitol>
+            <subcapitol>
+                <numar_subcapitol>4.2</numar_subcapitol>
+                <titlu_subcapitol>Aplicabilitate</titlu_subcapitol>
+                <descriere_subcapitol>Concluzii privind aplicabilitatea</descriere_subcapitol>
+            </subcapitol>
+        </capitol>
+    </continut>
+    <bibliografie>
+        <sursa>www.google.com</sursa>
+        <sursa>www.wiki.com</sursa>
+        <sursa>www.w3.com</sursa>
+    </bibliografie>
+    <anexe>
+        <anexa>cod</anexa>
+        <anexa>script</anexa>
+        <anexa>uml</anexa>
+    </anexe>
+</licenta>
